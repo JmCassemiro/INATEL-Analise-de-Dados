@@ -1,21 +1,3 @@
-# Faça um programa que leia o nome e peso de 5 pessoas e no final mostre os nomes da pessoa mais pesada e da mais leve.
-
-# Entrada
-# A entrada consiste de 6 linhas:
-
-# A primeira linha contém o nome da primeira pessoa
-
-# A segunda linha contém o peso da primeira pessoa (um número real)
-
-# A terceira linha contém o nome da segunda pessoa
-
-# A quarta linha contém o peso da segunda pessoa
-
-# e assim por diante.
-
-# Saída
-# Na saída, o programa deve mostrar os nomes da pessoa mais pesada e da pessoa mais leve, conforme o exemplo abaixo.
-
 nome = input("Digite o nome da primeira pessoa: ")
 peso = float(input("Digite o peso da primeira pessoa: "))
 
